@@ -1,9 +1,9 @@
-Udacity Item Catalog
+Jirello
 ====================
 
 ## Description
 
-An item catalog web app created using Flask for the Udacity Full Stack Nanodegree. The application provides a list of items within a variety of categories and integrates third party user registration and authentication. Authenticated users have the ability to post, edit, and delete their own items and categories.
+An project management web app created using Flask for the Udacity Full Stack Nanodegree. The application provides a list of items within a variety of projects and integrates third party user registration and authentication. Authenticated users have the ability to post, edit, and delete their own issues and projects.
 
 
 ## Setup
